@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "version": "NS1.0.1",
+    "release_date": "2026-11-19",
+    "changelog": [
+      "Bản phát hành đầu tiên có cập nhật tự động: phần mềm tự kiểm tra bản mới, tải, kiểm tra mã SHA-256, cài và mở lại; lỗi thì tự trả lại bản cũ",
+      "Mở lần đầu: đồng ý điều khoản sử dụng, khai báo đơn vị bắt buộc mã ĐVQHNS và mã số thuế; tệp dữ liệu đặt tên theo mã ĐVQHNS – mã số thuế",
+      "Thủ trưởng, kế toán trưởng, thủ quỹ theo thời gian giữ chức vụ — chứng từ in đúng người ký tại ngày hạch toán",
+      "Phân hệ Tài sản: thẻ TSCĐ, hao mòn theo TT 141/2025/TT-BTC, công cụ dụng cụ, kiểm kê, sổ S23-H, S24-H, S26-H; nhập tài sản, CCDC từ Excel",
+      "Sao lưu tự động theo ngày và khi đóng phần mềm; mật khẩu chỉ cần từ 6 ký tự",
+      "Trang chủ nhắc công việc cuối năm (kết chuyển, khóa sổ, chuyển số dư) sau thời gian chỉnh lý"
+    ]
+  }
+]
