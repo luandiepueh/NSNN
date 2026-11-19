@@ -27,11 +27,11 @@ của kho `luandiepueh/NSNN`. Thư mục này không được đóng gói vào N
 
 ## Mỗi lần phát hành
 
-1. Sửa `version.json`: `version`, `release_date`, `download_url`
+1. Sửa `version.json`: `version` (dạng `NS1.0.2`), `release_date`, `download_url`
    (`https://github.com/luandiepueh/NSNN/releases/download/<phiên bản>/NSNN_<phiên bản>.zip`), `changelog`.
 2. `powershell -ExecutionPolicy Bypass -File tools\phat_hanh.ps1`.
 
 Các máy đang dùng NSNN.exe tự kiểm tra mỗi 6 giờ (và khi mở phần mềm); thấy bản mới thì hiện nút
 **Bản mới …** trên thanh trên cùng → Hệ thống › Cập nhật phần mềm → **Tải và cài đặt** (chỉ Quản trị).
 
-Lưu ý: bản đầu tiên có chức năng cập nhật (1.2.0) phải cài tay một lần; từ đó về sau mới tự cập nhật.
+Lưu ý: bản đầu tiên phát hành qua trang này là **NS1.0.1** (19/11/2026) — cài tay một lần; từ đó về sau tự cập nhật.
