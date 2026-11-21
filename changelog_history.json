@@ -1,5 +1,19 @@
 [
   {
+    "version": "NS1.0.2",
+    "release_date": "2026-11-21",
+    "changelog": [
+      "Lập dự toán năm sau theo Thông tư 26/2026/TT-BTC: phần mềm gợi ý số theo nguồn và Mục từ số chi năm trước, năm nay và bảng lương; sửa, thêm, xóa dòng rồi in Mẫu biểu số 13, 14.1, bảng chi tiết và xuất Excel",
+      "Trợ lý nhập liệu: gợi ý định khoản như lần trước, cảnh báo khi lưu và khi duyệt (dự toán còn, quỹ âm, số tiền bất thường, nghi trùng), bắt buộc mục lục ngân sách cho khoản chi",
+      "Đính kèm chứng từ gốc (ảnh, PDF…) vào chứng từ, có mã hóa và sao lưu kèm",
+      "Đối chiếu sao kê ngân hàng, Kho bạc; Mẫu 32 xác nhận số dư tiền gửi tại Kho bạc; in bìa sổ; đánh số lại chứng từ",
+      "Nhắc việc có hạn: tạm ứng quá hạn, chuyển nguồn dự toán, thuế TNCN, nâng bậc lương, khoản chi định kỳ chưa lập, tài khoản phải nộp, phải trả lệch",
+      "Màu theo nguồn kinh phí trên chứng từ và danh sách; ô gợi ý đối tượng, tài khoản, mã MLNS lọc nhanh không dấu",
+      "Nhận PDF Kho bạc: lưu trữ theo năm, tháng, nguồn; tự lấy số tiếp theo khi trùng số; nộp bảo hiểm và trả người ngoài đơn vị gợi ý đúng tài khoản",
+      "Mua TSCĐ từ kinh phí không giao tự chủ và cải tiến tính dự toán còn lại theo Mục, theo rổ giao chung / giao riêng"
+    ]
+  },
+  {
     "version": "NS1.0.1",
     "release_date": "2026-11-19",
     "changelog": [

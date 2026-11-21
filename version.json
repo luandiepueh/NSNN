@@ -1,15 +1,17 @@
 {
-  "version": "NS1.0.1",
-  "release_date": "2026-11-19",
-  "download_url": "https://github.com/luandiepueh/NSNN/releases/download/NS1.0.1/NSNN_NS1.0.1.zip",
+  "version": "NS1.0.2",
+  "release_date": "2026-11-21",
+  "download_url": "https://github.com/luandiepueh/NSNN/releases/download/NS1.0.2/NSNN_NS1.0.2.zip",
   "changelog": [
-    "Bản phát hành đầu tiên có cập nhật tự động: phần mềm tự kiểm tra bản mới, tải, kiểm tra mã SHA-256, cài và mở lại; lỗi thì tự trả lại bản cũ",
-    "Mở lần đầu: đồng ý điều khoản sử dụng, khai báo đơn vị bắt buộc mã ĐVQHNS và mã số thuế; tệp dữ liệu đặt tên theo mã ĐVQHNS – mã số thuế",
-    "Thủ trưởng, kế toán trưởng, thủ quỹ theo thời gian giữ chức vụ — chứng từ in đúng người ký tại ngày hạch toán",
-    "Phân hệ Tài sản: thẻ TSCĐ, hao mòn theo TT 141/2025/TT-BTC, công cụ dụng cụ, kiểm kê, sổ S23-H, S24-H, S26-H; nhập tài sản, CCDC từ Excel",
-    "Sao lưu tự động theo ngày và khi đóng phần mềm; mật khẩu chỉ cần từ 6 ký tự",
-    "Trang chủ nhắc công việc cuối năm (kết chuyển, khóa sổ, chuyển số dư) sau thời gian chỉnh lý"
+    "Lập dự toán năm sau theo Thông tư 26/2026/TT-BTC: phần mềm gợi ý số theo nguồn và Mục từ số chi năm trước, năm nay và bảng lương; sửa, thêm, xóa dòng rồi in Mẫu biểu số 13, 14.1, bảng chi tiết và xuất Excel",
+    "Trợ lý nhập liệu: gợi ý định khoản như lần trước, cảnh báo khi lưu và khi duyệt (dự toán còn, quỹ âm, số tiền bất thường, nghi trùng), bắt buộc mục lục ngân sách cho khoản chi",
+    "Đính kèm chứng từ gốc (ảnh, PDF…) vào chứng từ, có mã hóa và sao lưu kèm",
+    "Đối chiếu sao kê ngân hàng, Kho bạc; Mẫu 32 xác nhận số dư tiền gửi tại Kho bạc; in bìa sổ; đánh số lại chứng từ",
+    "Nhắc việc có hạn: tạm ứng quá hạn, chuyển nguồn dự toán, thuế TNCN, nâng bậc lương, khoản chi định kỳ chưa lập, tài khoản phải nộp, phải trả lệch",
+    "Màu theo nguồn kinh phí trên chứng từ và danh sách; ô gợi ý đối tượng, tài khoản, mã MLNS lọc nhanh không dấu",
+    "Nhận PDF Kho bạc: lưu trữ theo năm, tháng, nguồn; tự lấy số tiếp theo khi trùng số; nộp bảo hiểm và trả người ngoài đơn vị gợi ý đúng tài khoản",
+    "Mua TSCĐ từ kinh phí không giao tự chủ và cải tiến tính dự toán còn lại theo Mục, theo rổ giao chung / giao riêng"
   ],
-  "sha256": "3ee23b1aa1f4496f01d2bb3ee8edefd3a68f38b2be107b3925554dcb98b86e17",
-  "size": 22409886
+  "sha256": "7b17dff680d93a987c76fa8bf41596f48d6ba860cf1bdd0043183921aa836b0f",
+  "size": 22743549
 }
