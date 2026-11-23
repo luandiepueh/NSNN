@@ -1,5 +1,19 @@
 [
   {
+    "version": "NS1.0.3",
+    "release_date": "2026-11-23",
+    "changelog": [
+      "Năm làm việc: bấm ô năm trên thanh trên để chọn năm số liệu đang làm (dự toán, báo cáo, khóa sổ, cuối năm theo năm này); chỉ hiện các năm có dữ liệu, bỏ dãy nút 3 năm ở từng trang",
+      "Thời gian chỉnh lý (01/01–31/01): nhắc số ngày còn lại; chứng từ tháng 01 chọn rõ \"Niên độ năm nay\" hay \"Niên độ năm trước · chỉnh lý\"; sổ quỹ, sổ tiền gửi, nhật ký ghi nhãn \"Chỉnh lý\"; sửa lỗi sổ theo dõi dự toán năm trước bị thiếu số khi sang năm mới",
+      "Cuối năm: hủy, giảm dự toán ký trong thời gian chỉnh lý ghi sổ ngày 31/12; chuyển số dư đầu năm gộp theo tài khoản; báo cáo quyết toán nhắc dự toán còn dư chưa hủy hoặc chuyển nguồn",
+      "Tài sản: sổ, thẻ tài sản cố định đủ nội dung theo Thông tư 24/2024/TT-BTC (thẻ có phụ tùng kèm theo, phần ghi giảm; sổ theo dõi tại nơi sử dụng theo năm); thêm sổ kho, sổ chi tiết công cụ dụng cụ (S21-H, S22-H); in tem dán tài sản có mã QR",
+      "Tiện ích › Kiểm kê quỹ tiền mặt: lập, lưu và in biên bản kiểm kê quỹ (số tờ từng mệnh giá, đối chiếu sổ kế toán và sổ quỹ, lý do chênh lệch)",
+      "Bản in: chứng từ gọn một trang, chữ ký không xuống dòng; chọn được mẫu phiếu thu, phiếu chi theo Thông tư 107/2017/TT-BTC (Hệ thống › Thông tin đơn vị); sổ kẻ ô rõ hơn",
+      "Mẫu 20 xuất Excel nộp dịch vụ công Kho bạc (sửa lỗi cổng báo \"không được để trống\"); tệp nộp báo cáo Kho bạc dạng tab, xuất một tệp Excel",
+      "Trang chủ mới: dự toán theo nguồn dạng tòa nhà, việc sắp tới (tự thêm việc nhắc), rút dự toán theo đối tượng, chứng từ gần đây; biểu tượng mới toàn phần mềm"
+    ]
+  },
+  {
     "version": "NS1.0.2",
     "release_date": "2026-11-21",
     "changelog": [
