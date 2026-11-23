@@ -1,5 +1,13 @@
 [
   {
+    "version": "NS1.0.4",
+    "release_date": "2026-11-23",
+    "changelog": [
+      "Bản quyền: nhận key đặc biệt dùng trên mọi máy tính (không gắn mã máy) do tác giả cấp cho khách hàng đặc biệt; trang Bản quyền hiện rõ phạm vi của key",
+      "Biểu tượng phần mềm mới, phủ kín khung — trên màn hình Desktop và thanh tác vụ to, rõ hơn"
+    ]
+  },
+  {
     "version": "NS1.0.3",
     "release_date": "2026-11-23",
     "changelog": [
