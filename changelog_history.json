@@ -1,5 +1,20 @@
 [
   {
+    "version": "NS1.0.5",
+    "release_date": "2026-11-24",
+    "changelog": [
+      "Tài khoản phải thu NSNN tách chi tiết: 13511 (kinh phí không giao tự chủ), 13512 (kinh phí giao tự chủ); doanh thu NSNN cấp tách 5111 (không giao tự chủ), 5112 (giao tự chủ). Gõ 1351 hoặc 511 phần mềm tự chọn đúng tài khoản chi tiết theo dòng TK 008; số liệu cũ được chuyển tự động khi mở phần mềm",
+      "Lưu ý quy ước mới: số cuối 1 = không giao tự chủ, 2 = giao tự chủ (giống 611/612, 008x1/008x2) — khác nghĩa 5111/5112 của Thông tư 107 cũ",
+      "Báo cáo tình hình tài chính (B01): “Phải thu kinh phí được cấp” và “Nhận trước kinh phí được cấp” không còn bù trừ lẫn nhau",
+      "Cuối năm: phiếu kết chuyển ghi riêng 5111, 5112; Kiểm tra cuối năm thêm mục số dư 13511, 13512; S90-H lấy doanh thu tự chủ theo sổ TK 5112",
+      "Danh mục tài khoản chỉ theo Thông tư 24/2024/TT-BTC: gỡ các tài khoản cũ của Thông tư 107 chưa dùng",
+      "Quyết định dự toán: nút Tách chia dòng phần lương 1.490.000 / DP014; quyết định điều chỉnh nhập dòng giảm + dòng bổ sung cùng mã",
+      "Giấy rút, phiếu kế toán nguồn có DP014 chọn phần lương cơ sở theo từng dòng",
+      "Đợt chi cho đối tượng khác: tính BHXH (NĐ 173) và tùy chọn trừ bảo hiểm khi tính thuế TNCN",
+      "Xóa hết chứng từ của một bộ thì bộ chứng từ tự gỡ; Sao lưu có nút tải gói gửi hỗ trợ"
+    ]
+  },
+  {
     "version": "NS1.0.4",
     "release_date": "2026-11-23",
     "changelog": [
