@@ -1,5 +1,20 @@
 [
   {
+    "version": "NS1.0.6",
+    "release_date": "2026-11-25",
+    "changelog": [
+      "Nhận giấy rút từ Kho bạc: tự tách phần lương 1.490.000 và DP014 theo từng dòng khi Kho bạc ghi “mã dự phòng 014” hoặc “chênh lệch do tăng lương” — hết báo thiếu dự toán do dồn cả vào phần 1.490.000",
+      "Giấy Kho bạc đã nhận mà chứng từ bị xóa nay nhận lại được (trước đây báo “đã nhận trước đó”)",
+      "Tài khoản phải thu NSNN: đơn vị đã mở tài khoản con (ví dụ 135121) thì phần mềm chọn đúng tài khoản con của nhóm giao tự chủ; chứng từ cũ ghi 13511 cho kinh phí giao tự chủ được chuyển đúng nhóm khi mở phần mềm",
+      "Điều chỉnh số liệu ngân sách (C2-10): lọc giấy rút theo số, mã nội dung kinh tế, nguồn, chương, ngành, ngày; chọn nhiều dòng một lần; đổi mã hàng loạt; tách một dòng thành nhiều dòng",
+      "Khen thưởng nguồn 18 theo quy chế tiền thưởng của đơn vị: thưởng đột xuất theo mức, thưởng định kỳ cuối năm chia theo xếp loại",
+      "Bảng lương: đối chiếu số bảo hiểm với cách cơ quan BHXH tính (tỷ lệ × tổng quỹ lương), chênh lệch vài đồng ghi vào phần đơn vị đóng",
+      "In Mẫu biểu số 14.1 (lập dự toán năm sau) không còn mất cột khi in khổ ngang",
+      "Báo cáo Đối chiếu Kho bạc (Mẫu 26–29), B01/BCQT, BCTC: dòng tiêu đề cột dính đúng chỗ khi cuộn",
+      "Bộ chọn ngày mới, Việc sắp tới dạng danh sách đánh dấu, màn hình In bìa sổ chọn và xem trước"
+    ]
+  },
+  {
     "version": "NS1.0.5",
     "release_date": "2026-11-24",
     "changelog": [

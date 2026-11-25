@@ -1,18 +1,18 @@
 {
-  "version": "NS1.0.5",
-  "release_date": "2026-11-24",
-  "download_url": "https://github.com/luandiepueh/NSNN/releases/download/NS1.0.5/NSNN_NS1.0.5.zip",
+  "version": "NS1.0.6",
+  "release_date": "2026-11-25",
+  "download_url": "https://github.com/luandiepueh/NSNN/releases/download/NS1.0.6/NSNN_NS1.0.6.zip",
   "changelog": [
-    "Tài khoản phải thu NSNN tách chi tiết: 13511 (kinh phí không giao tự chủ), 13512 (kinh phí giao tự chủ); doanh thu NSNN cấp tách 5111 (không giao tự chủ), 5112 (giao tự chủ). Gõ 1351 hoặc 511 phần mềm tự chọn đúng tài khoản chi tiết theo dòng TK 008; số liệu cũ được chuyển tự động khi mở phần mềm",
-    "Lưu ý quy ước mới: số cuối 1 = không giao tự chủ, 2 = giao tự chủ (giống 611/612, 008x1/008x2) — khác nghĩa 5111/5112 của Thông tư 107 cũ",
-    "Báo cáo tình hình tài chính (B01): “Phải thu kinh phí được cấp” và “Nhận trước kinh phí được cấp” không còn bù trừ lẫn nhau",
-    "Cuối năm: phiếu kết chuyển ghi riêng 5111, 5112; Kiểm tra cuối năm thêm mục số dư 13511, 13512; S90-H lấy doanh thu tự chủ theo sổ TK 5112",
-    "Danh mục tài khoản chỉ theo Thông tư 24/2024/TT-BTC: gỡ các tài khoản cũ của Thông tư 107 chưa dùng",
-    "Quyết định dự toán: nút Tách chia dòng phần lương 1.490.000 / DP014; quyết định điều chỉnh nhập dòng giảm + dòng bổ sung cùng mã",
-    "Giấy rút, phiếu kế toán nguồn có DP014 chọn phần lương cơ sở theo từng dòng",
-    "Đợt chi cho đối tượng khác: tính BHXH (NĐ 173) và tùy chọn trừ bảo hiểm khi tính thuế TNCN",
-    "Xóa hết chứng từ của một bộ thì bộ chứng từ tự gỡ; Sao lưu có nút tải gói gửi hỗ trợ"
+    "Nhận giấy rút từ Kho bạc: tự tách phần lương 1.490.000 và DP014 theo từng dòng khi Kho bạc ghi “mã dự phòng 014” hoặc “chênh lệch do tăng lương” — hết báo thiếu dự toán do dồn cả vào phần 1.490.000",
+    "Giấy Kho bạc đã nhận mà chứng từ bị xóa nay nhận lại được (trước đây báo “đã nhận trước đó”)",
+    "Tài khoản phải thu NSNN: đơn vị đã mở tài khoản con (ví dụ 135121) thì phần mềm chọn đúng tài khoản con của nhóm giao tự chủ; chứng từ cũ ghi 13511 cho kinh phí giao tự chủ được chuyển đúng nhóm khi mở phần mềm",
+    "Điều chỉnh số liệu ngân sách (C2-10): lọc giấy rút theo số, mã nội dung kinh tế, nguồn, chương, ngành, ngày; chọn nhiều dòng một lần; đổi mã hàng loạt; tách một dòng thành nhiều dòng",
+    "Khen thưởng nguồn 18 theo quy chế tiền thưởng của đơn vị: thưởng đột xuất theo mức, thưởng định kỳ cuối năm chia theo xếp loại",
+    "Bảng lương: đối chiếu số bảo hiểm với cách cơ quan BHXH tính (tỷ lệ × tổng quỹ lương), chênh lệch vài đồng ghi vào phần đơn vị đóng",
+    "In Mẫu biểu số 14.1 (lập dự toán năm sau) không còn mất cột khi in khổ ngang",
+    "Báo cáo Đối chiếu Kho bạc (Mẫu 26–29), B01/BCQT, BCTC: dòng tiêu đề cột dính đúng chỗ khi cuộn",
+    "Bộ chọn ngày mới, Việc sắp tới dạng danh sách đánh dấu, màn hình In bìa sổ chọn và xem trước"
   ],
-  "sha256": "320dea6e0c386cf5e2ab48b84309c3f6edd44d70ae1f4815a3459a3cfec4b746",
-  "size": 23068955
+  "sha256": "089c7c150f79551a7dc5c1b4567dc4193dc84411f10c6cec610e6f423c790be3",
+  "size": 23126386
 }
