@@ -1,15 +1,13 @@
 {
-  "version": "NS1.0.7",
+  "version": "NS1.0.8",
   "release_date": "2026-11-26",
-  "download_url": "https://github.com/luandiepueh/NSNN/releases/download/NS1.0.7/NSNN_NS1.0.7.zip",
+  "download_url": "https://github.com/luandiepueh/NSNN/releases/download/NS1.0.8/NSNN_NS1.0.8.zip",
   "changelog": [
-    "Xuất giấy rút lên Cổng dịch vụ công Kho bạc: tự điền mã chương, Dự toán chính thức, nội dung thanh toán chung, số và ngày hóa đơn; mã số thuế đơn vị nhận tiền hiện sẵn kèm nút Chép để dán trên cổng",
-    "Nộp trả tạm ứng cho Kho bạc: hình thức mới trên giấy rút dự toán, lập nhanh từ tạm ứng gốc; trả bằng tiền mặt có in phiếu chi",
-    "Giấy rút dự toán và lệnh chi nhận tiền mặt: có số phiếu thu và in phiếu thu ngay trên chứng từ, sổ quỹ ghi số phiếu thu",
-    "Hao mòn tài sản chuyển tiếp theo Thông tư 141/2025/TT-BTC: tài sản dùng từ trước năm 2026 tính lại theo số năm mới; gợi ý chuyển nhóm cho thẻ nhập từ dữ liệu cũ",
-    "Nhận PDF Kho bạc nhiều trang: gom đủ các dòng qua trang, tổng giấy lấy dòng Tổng cộng cuối",
-    "Sổ theo dõi dự toán S101-H trong tháng chỉnh lý: số rút, thanh toán tạm ứng đầu năm sau ghi vào đúng dòng dự toán năm trước"
+    "Năm làm việc: ô chọn năm chỉ liệt kê năm đã có số liệu và năm đơn vị tự mở; nút Mở năm để làm số liệu năm cũ, năm mở nhầm chưa có số liệu bỏ được",
+    "Làm năm nào chỉ thấy việc năm đó: trang chủ (việc cần làm, việc sắp tới, chứng từ gần đây, tiền còn số dư đến 31/12 năm cũ), danh sách chứng từ, bộ chứng từ, Nhật ký chứng từ và quyết định dự toán; có nút Mọi năm khi cần tìm năm khác",
+    "Lập chứng từ, quyết định dự toán, chứng từ ghi sổ khi làm năm cũ: ngày điền sẵn trong năm đó (ngày gần nhất đã nhập, chưa có thì 01/01)",
+    "Công việc cuối năm (kết chuyển, khóa sổ, chuyển số dư) nhắc theo đúng năm đang làm"
   ],
-  "sha256": "e511e648e442af8546fba7f9f805bb5c3882bebb0dba10ef0dc095348adffc82",
-  "size": 23149944
+  "sha256": "d36d4da1ea896d75b6ede3081b43b0aacc4cbb4677119b6ec4c694035beb92c1",
+  "size": 23160585
 }

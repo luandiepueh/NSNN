@@ -1,5 +1,15 @@
 [
   {
+    "version": "NS1.0.8",
+    "release_date": "2026-11-26",
+    "changelog": [
+      "Năm làm việc: ô chọn năm chỉ liệt kê năm đã có số liệu và năm đơn vị tự mở; nút Mở năm để làm số liệu năm cũ, năm mở nhầm chưa có số liệu bỏ được",
+      "Làm năm nào chỉ thấy việc năm đó: trang chủ (việc cần làm, việc sắp tới, chứng từ gần đây, tiền còn số dư đến 31/12 năm cũ), danh sách chứng từ, bộ chứng từ, Nhật ký chứng từ và quyết định dự toán; có nút Mọi năm khi cần tìm năm khác",
+      "Lập chứng từ, quyết định dự toán, chứng từ ghi sổ khi làm năm cũ: ngày điền sẵn trong năm đó (ngày gần nhất đã nhập, chưa có thì 01/01)",
+      "Công việc cuối năm (kết chuyển, khóa sổ, chuyển số dư) nhắc theo đúng năm đang làm"
+    ]
+  },
+  {
     "version": "NS1.0.7",
     "release_date": "2026-11-26",
     "changelog": [
