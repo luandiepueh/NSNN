@@ -1,5 +1,17 @@
 [
   {
+    "version": "NS1.0.7",
+    "release_date": "2026-11-26",
+    "changelog": [
+      "Xuất giấy rút lên Cổng dịch vụ công Kho bạc: tự điền mã chương, Dự toán chính thức, nội dung thanh toán chung, số và ngày hóa đơn; mã số thuế đơn vị nhận tiền hiện sẵn kèm nút Chép để dán trên cổng",
+      "Nộp trả tạm ứng cho Kho bạc: hình thức mới trên giấy rút dự toán, lập nhanh từ tạm ứng gốc; trả bằng tiền mặt có in phiếu chi",
+      "Giấy rút dự toán và lệnh chi nhận tiền mặt: có số phiếu thu và in phiếu thu ngay trên chứng từ, sổ quỹ ghi số phiếu thu",
+      "Hao mòn tài sản chuyển tiếp theo Thông tư 141/2025/TT-BTC: tài sản dùng từ trước năm 2026 tính lại theo số năm mới; gợi ý chuyển nhóm cho thẻ nhập từ dữ liệu cũ",
+      "Nhận PDF Kho bạc nhiều trang: gom đủ các dòng qua trang, tổng giấy lấy dòng Tổng cộng cuối",
+      "Sổ theo dõi dự toán S101-H trong tháng chỉnh lý: số rút, thanh toán tạm ứng đầu năm sau ghi vào đúng dòng dự toán năm trước"
+    ]
+  },
+  {
     "version": "NS1.0.6",
     "release_date": "2026-11-25",
     "changelog": [
