@@ -1,13 +1,18 @@
 {
-  "version": "NS1.0.8",
-  "release_date": "2026-11-26",
-  "download_url": "https://github.com/luandiepueh/NSNN/releases/download/NS1.0.8/NSNN_NS1.0.8.zip",
+  "version": "NS1.0.9",
+  "release_date": "2026-11-28",
+  "download_url": "https://github.com/luandiepueh/NSNN/releases/download/NS1.0.9/NSNN_NS1.0.9.zip",
   "changelog": [
-    "Năm làm việc: ô chọn năm chỉ liệt kê năm đã có số liệu và năm đơn vị tự mở; nút Mở năm để làm số liệu năm cũ, năm mở nhầm chưa có số liệu bỏ được",
-    "Làm năm nào chỉ thấy việc năm đó: trang chủ (việc cần làm, việc sắp tới, chứng từ gần đây, tiền còn số dư đến 31/12 năm cũ), danh sách chứng từ, bộ chứng từ, Nhật ký chứng từ và quyết định dự toán; có nút Mọi năm khi cần tìm năm khác",
-    "Lập chứng từ, quyết định dự toán, chứng từ ghi sổ khi làm năm cũ: ngày điền sẵn trong năm đó (ngày gần nhất đã nhập, chưa có thì 01/01)",
-    "Công việc cuối năm (kết chuyển, khóa sổ, chuyển số dư) nhắc theo đúng năm đang làm"
+    "Giấy rút dự toán: ô Nghiệp vụ mẫu lên thanh đầu; chọn Nguồn là danh sách tự mở, món đơn vị hay chi lên đầu (Hay dùng). Nguồn 13 và 12 mỗi nguồn còn 2 nhóm (Chi tự chủ: Lương, tiền công, chi phí khác / Vật tư và dịch vụ; Chi không tự chủ: Vật tư và dịch vụ / Chi phí khác), mỗi nhóm có sẵn các món theo tiểu mục. Nguồn 14, 18 chỉ hiện món của nguồn đó",
+    "Chọn nghiệp vụ mẫu điền thẳng vào dòng hạch toán đang trống, không thêm dòng thừa",
+    "Nhận chứng từ Kho bạc (PDF): danh sách Đã nhận theo năm đang làm (có nút Mọi năm); đọc được giấy rút dự toán mẫu cũ 16a1 để kiểm tra lại dữ liệu năm 2025",
+    "Dự trù, quyết toán của đơn vị con: tải tệp Excel mẫu (bảng tự thêm dòng, in vừa một trang A4), nhận lại tệp đã điền, duyệt / trả lại, xuất Mẫu 20 từ Danh sách chi tiền",
+    "Số dư đầu năm: đã chốt thì không lưu đè (Kế toán trưởng mở lại, ghi lý do); thêm cột đối tượng cho tạm ứng, phải thu, phải trả; sổ theo dõi tạm ứng TK 141",
+    "Kho vật liệu TK 152 dùng chung phân hệ công cụ dụng cụ; kiểm kê quỹ, kiểm kê công cụ lập phiếu xử lý thừa thiếu",
+    "Bảo mật: vai trò Chỉ xem; đăng nhập sai 5 lần khóa 5 phút; bản cập nhật có chữ ký số, chữ ký sai không tự cài",
+    "Tài sản: nhập lại năm trước khi đã khai số dư chuyển sang năm sau; năm 2025 tính hao mòn theo số năm cũ"
   ],
-  "sha256": "d36d4da1ea896d75b6ede3081b43b0aacc4cbb4677119b6ec4c694035beb92c1",
-  "size": 23160585
+  "sha256": "b9bfbbd8f0d1204ee8ae119edea5896ca21bae7d19530a0b610c53a0ef56e573",
+  "size": 23301650,
+  "signature": "rLKwfR1SdysiEkiLzHxSUgkn01a2mEGzrsIXBqFcBH7P1QwLrPdrsg/BNldSxZtlYtfhoL2a5JHiX7jxPPfCAg=="
 }

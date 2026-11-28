@@ -1,5 +1,19 @@
 [
   {
+    "version": "NS1.0.9",
+    "release_date": "2026-11-28",
+    "changelog": [
+      "Giấy rút dự toán: ô Nghiệp vụ mẫu lên thanh đầu; chọn Nguồn là danh sách tự mở, món đơn vị hay chi lên đầu (Hay dùng). Nguồn 13 và 12 mỗi nguồn còn 2 nhóm (Chi tự chủ: Lương, tiền công, chi phí khác / Vật tư và dịch vụ; Chi không tự chủ: Vật tư và dịch vụ / Chi phí khác), mỗi nhóm có sẵn các món theo tiểu mục. Nguồn 14, 18 chỉ hiện món của nguồn đó",
+      "Chọn nghiệp vụ mẫu điền thẳng vào dòng hạch toán đang trống, không thêm dòng thừa",
+      "Nhận chứng từ Kho bạc (PDF): danh sách Đã nhận theo năm đang làm (có nút Mọi năm); đọc được giấy rút dự toán mẫu cũ 16a1 để kiểm tra lại dữ liệu năm 2025",
+      "Dự trù, quyết toán của đơn vị con: tải tệp Excel mẫu (bảng tự thêm dòng, in vừa một trang A4), nhận lại tệp đã điền, duyệt / trả lại, xuất Mẫu 20 từ Danh sách chi tiền",
+      "Số dư đầu năm: đã chốt thì không lưu đè (Kế toán trưởng mở lại, ghi lý do); thêm cột đối tượng cho tạm ứng, phải thu, phải trả; sổ theo dõi tạm ứng TK 141",
+      "Kho vật liệu TK 152 dùng chung phân hệ công cụ dụng cụ; kiểm kê quỹ, kiểm kê công cụ lập phiếu xử lý thừa thiếu",
+      "Bảo mật: vai trò Chỉ xem; đăng nhập sai 5 lần khóa 5 phút; bản cập nhật có chữ ký số, chữ ký sai không tự cài",
+      "Tài sản: nhập lại năm trước khi đã khai số dư chuyển sang năm sau; năm 2025 tính hao mòn theo số năm cũ"
+    ]
+  },
+  {
     "version": "NS1.0.8",
     "release_date": "2026-11-26",
     "changelog": [
